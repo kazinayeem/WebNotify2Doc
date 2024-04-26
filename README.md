@@ -1,4 +1,4 @@
-# PDF Generator
+# PDF Generator from Url
 
 
 PDF Generator is a Python application that automates the process of fetching notifications from websites and saving them as PDF documents.
